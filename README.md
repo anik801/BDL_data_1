@@ -11,4 +11,4 @@ Codes are written in Python 3 using Jupyter Notebook.
 
 Adjust input and output data files while running.
 
-Data files are not uploaded here. All data is available on www. building-data-lite.com.
+Data files are not uploaded here. All data is available on www.building-data-lite.com.
