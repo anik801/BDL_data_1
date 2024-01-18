@@ -2,7 +2,7 @@
 
 This repository hosts a dataset composed of indoor environmental factors such as temperature, humidity, air quality, and noise levels. The data were collected from 10 sensing devices installed at various locations within three single-family houses in Virginia, USA. The objective of the data collection was to study the indoor environmental conditions of these houses over time. The data were gathered at a frequency of one record per minute for a year, yielding over 2.5 million records. The techniques used to collect the data, referred to as Building Data Lite (BDL), are described within [this repository](https://github.com/anik801/data_collection). The resulting dataset can be utilized to enhance models for building energy consumption, occupant behavior, predictive maintenance, and other related applications.
 
-Project Team: [Sheik Murad Hassan Anik](https://www.linkedin.com/in/anik801/), [Dr. Ray Gao](http://www.raygaoai.com/), [Dr. Na Meng](https://people.cs.vt.edu/nm8247/) at Virginia Tech.
+Project Team: [Sheik Murad Hassan Anik](https://www.linkedin.com/in/anik801/), [Dr. Ray Gao](http://www.ray-gao.com/), [Dr. Na Meng](https://people.cs.vt.edu/nm8247/) at Virginia Tech.
 
 Check related research article [here](/papers/2023_BDL_data.pdf).
 
@@ -35,7 +35,7 @@ Columns 13 to 15 are only available in the Enviro+ CSV files. Columns 13, 14, an
 
 [Sheik Murad Hassan Anik (soon to be PhD)](https://www.linkedin.com/in/anik801/)
 
-[Dr. Ray Gao](http://www.raygaoai.com/)
+[Dr. Ray Gao](http://www.ray-gao.com/)
 
 [Dr. Na Meng](https://people.cs.vt.edu/nm8247/)
 
